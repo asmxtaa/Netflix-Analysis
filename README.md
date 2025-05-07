@@ -6,7 +6,7 @@ This project provides an interactive data visualization of Netflix content using
 
 ## 📊 Dashboard Overview
 
-<img src="d2e0c30c-6112-4d22-bed0-e2866d0a2cec.png" alt="Netflix Power BI Dashboard" width="100%"/>
+<img src="Netflix-Analysis.pdf" alt="Netflix Power BI Dashboard" width="100%"/>
 
 The Power BI dashboard provides insights into:
 
